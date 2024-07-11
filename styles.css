@@ -25,7 +25,7 @@ h2 span {
 }
 
 .header-container {
-    background: url('images\ 2/pic_1.jpg') no-repeat;
+    background: url('images/pic_1.jpg') no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -34,7 +34,7 @@ h2 span {
 }
 
 .header-container-pricing {
-    background: url('images\ 2/pic_2.jpg') no-repeat;
+    background: url('images/pic_2.jpg') no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -43,7 +43,7 @@ h2 span {
 }
 
 .header-container-courses {
-    background: url('images\ 2/pic_3.jpg') no-repeat;
+    background: url('images/pic_3.jpg') no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -71,7 +71,7 @@ h2 span {
 .smile {
     width: 3rem;
     min-height: 2.5rem;
-    background-image: url('images\ 2/smile_off.png');
+    background-image: url('images/smile_off.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -91,7 +91,7 @@ h2 span {
 .logo {
     width: 10rem;
     min-height: 2.5rem;
-    background-image: url('images\ 2/logo.png');
+    background-image: url('images/logo.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -151,24 +151,24 @@ h2 span {
 }
 
 #p1 {
-    background-image: url('images\ 2/profile_1.jpg');
+    background-image: url('images/profile_1.jpg');
 }
 
 #p2 {
-    background-image: url('images\ 2/profile_2.jpg');
+    background-image: url('images/profile_2.jpg');
 }
 
 #p3 {
-    background-image: url('images\ 2/profile_3.jpg');
+    background-image: url('images/profile_3.jpg');
 }
 
 #p4 {
-    background-image: url('images\ 2/profile_4.jpg');
+    background-image: url('images/profile_4.jpg');
 }
 
 #p5,
 #p6 {
-    background-image: url('images\ 2/profile_5.jpg');
+    background-image: url('images/profile_5.jpg');
 }
 
 @media screen and (max-width: 767px) {

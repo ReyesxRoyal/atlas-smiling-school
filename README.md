@@ -24,4 +24,4 @@ I'm Rasheed White, a full-stack developer focused on creating an accessible and 
 - **[Rasheed White](https://github.com/ReyesxRoyal)**
 
 ## Screenshot
-![Project Screenshot](./images/Screenshot 2025-04-25 212919.png)
+![Project Screenshot](./images/Screenshot.png)
